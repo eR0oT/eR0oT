@@ -1,4 +1,4 @@
 ### Hello ! 👋
 
-``💻 Developper PHP and NodeJS...``
+``💻 Developper PHP and JavaScript...``
 
